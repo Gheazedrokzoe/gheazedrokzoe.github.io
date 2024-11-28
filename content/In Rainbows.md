@@ -1,11 +1,10 @@
 ---
-title: note
+title: In Rainbows
 draft: false
 tags:
   - example-tag
+  - 题解
 ---
-<iframe src="//player.bilibili.com/player.html?aid=842573381&amp;cid=145147963&amp;page=1" frameborder="no" scrolling="no" width="95%" height="600"></iframe></p>
-
 
 一些 CodeForces 题目的简要题解。
 

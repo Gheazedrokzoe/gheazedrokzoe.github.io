@@ -1,8 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
+你好，这里是我的学习笔记。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
- 你好
- 
