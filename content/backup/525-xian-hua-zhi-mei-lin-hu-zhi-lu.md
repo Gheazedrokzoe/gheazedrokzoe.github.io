@@ -46,3 +46,5 @@ isTop: false
 希望学弟们明年都能来泡温泉。
 
 什么，你问我 WHK？寄。
+
+[[In Rainbows]]
